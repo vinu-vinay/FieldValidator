@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |spec|
-  spec.name         = "StringValidator"
+  spec.name         = "MyStringValidator"
   spec.version      = "1.0.0"
   spec.summary      = "A short description of FieldValidator."
   spec.description  = "Validator"
